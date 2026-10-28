@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sharvani 👋
 
-<!--
-**sharvani801/sharvani801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA student specializing in Artificial Intelligence and Machine Learning at Alliance University.
 
-Here are some ideas to get you started:
+💻 **Technical Skills**
+- Programming: Python, Java, SQL
+- Web Development: HTML, CSS, JavaScript
+- Interests: Artificial Intelligence, Machine Learning, Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects**
+- GenAI Career Navigator — Career exploration and skill-gap analysis.
+- Campus Cart — Campus shopping project.
+- Hospital Management System — Hospital information management.
+
+🌱 I'm continuously learning, building projects, and improving my problem-solving skills.
+
+📫 **Connect with me**
+- GitHub: https://github.com/sharvani801
+- LinkedIn: https://www.linkedin.com/in/bijjam-sharvani-71a685326/
